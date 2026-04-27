@@ -18,7 +18,7 @@
 </div>
 
 ## ⚠️ Game assets within `~/.local/share/Raptor` ⚠️
-** Run `./Raptor*.AppImage raptorsetup`** if you'd like to fiddle with some settings.
+** Optionally, run `./Raptor*.AppImage raptorsetup`** if you want to change some settings.
 
 ---
 
